@@ -1,0 +1,16 @@
+/home/mauricio/Documents/Digital Innovation One/GFT Start #4 .NET/Projeto - Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/Projeto/bin/Debug/net5.0/Projeto
+/home/mauricio/Documents/Digital Innovation One/GFT Start #4 .NET/Projeto - Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/Projeto/bin/Debug/net5.0/Projeto.deps.json
+/home/mauricio/Documents/Digital Innovation One/GFT Start #4 .NET/Projeto - Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/Projeto/bin/Debug/net5.0/Projeto.runtimeconfig.json
+/home/mauricio/Documents/Digital Innovation One/GFT Start #4 .NET/Projeto - Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/Projeto/bin/Debug/net5.0/Projeto.runtimeconfig.dev.json
+/home/mauricio/Documents/Digital Innovation One/GFT Start #4 .NET/Projeto - Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/Projeto/bin/Debug/net5.0/Projeto.dll
+/home/mauricio/Documents/Digital Innovation One/GFT Start #4 .NET/Projeto - Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/Projeto/bin/Debug/net5.0/ref/Projeto.dll
+/home/mauricio/Documents/Digital Innovation One/GFT Start #4 .NET/Projeto - Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/Projeto/bin/Debug/net5.0/Projeto.pdb
+/home/mauricio/Documents/Digital Innovation One/GFT Start #4 .NET/Projeto - Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/Projeto/obj/Debug/net5.0/Projeto.csproj.AssemblyReference.cache
+/home/mauricio/Documents/Digital Innovation One/GFT Start #4 .NET/Projeto - Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/Projeto/obj/Debug/net5.0/Projeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/mauricio/Documents/Digital Innovation One/GFT Start #4 .NET/Projeto - Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/Projeto/obj/Debug/net5.0/Projeto.AssemblyInfoInputs.cache
+/home/mauricio/Documents/Digital Innovation One/GFT Start #4 .NET/Projeto - Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/Projeto/obj/Debug/net5.0/Projeto.AssemblyInfo.cs
+/home/mauricio/Documents/Digital Innovation One/GFT Start #4 .NET/Projeto - Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/Projeto/obj/Debug/net5.0/Projeto.csproj.CoreCompileInputs.cache
+/home/mauricio/Documents/Digital Innovation One/GFT Start #4 .NET/Projeto - Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/Projeto/obj/Debug/net5.0/Projeto.dll
+/home/mauricio/Documents/Digital Innovation One/GFT Start #4 .NET/Projeto - Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/Projeto/obj/Debug/net5.0/ref/Projeto.dll
+/home/mauricio/Documents/Digital Innovation One/GFT Start #4 .NET/Projeto - Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/Projeto/obj/Debug/net5.0/Projeto.pdb
+/home/mauricio/Documents/Digital Innovation One/GFT Start #4 .NET/Projeto - Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/Projeto/obj/Debug/net5.0/Projeto.genruntimeconfig.cache
